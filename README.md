@@ -98,12 +98,6 @@ myNvim/
 | `<Tab>` | Next item |
 | `<S-Tab>` | Previous item |
 
-### Notifications
-
-| Mode | Keybind | Action | Description |
-|------|---------|--------|-------------|
-| Normal | `<leader>sn` | Show snack notification | Display notification |
-
 ## 🔌 Plugins
 
 - **[lazy.nvim](https://github.com/folke/lazy.nvim)** - Plugin manager
