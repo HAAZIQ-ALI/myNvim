@@ -1,0 +1,23 @@
+# Lazy.nvim lock file (regenerate automatically)
+lazy-lock.json
+# Swap files
+*.swp
+*.swo
+# Undo/backup files
+*.un~
+*.bak
+# Temporary files
+*.tmp
+# Node modules (if using any Node-based plugins)
+node_modules/
+# MacOS specific files
+.DS_Store
+# Log files
+*.log
+# Python cache (if using any Python plugins)
+__pycache__/
+*.pyc
+# Vim backup files
+*.orig
+# Any other temporary directories/plugins caches
+.cache/
