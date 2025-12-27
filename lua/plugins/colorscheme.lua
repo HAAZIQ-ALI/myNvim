@@ -17,9 +17,9 @@ return {
     })
 
     -- Pick ONE:
-    vim.cmd("colorscheme nightfox")
+    --vim.cmd("colorscheme nightfox")
     -- vim.cmd("colorscheme carbonfox")
     -- vim.cmd("colorscheme duskfox")
-    -- vim.cmd("colorscheme nordfox")
+     vim.cmd("colorscheme nordfox")
   end,
 }
