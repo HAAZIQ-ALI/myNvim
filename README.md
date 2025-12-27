@@ -1,4 +1,5 @@
 # Neovim Config
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/feb6a329-9ccc-4125-a678-bd80f13ab0c6" />
 
 <img width="1307" height="707" alt="Neovim Screenshot" src="https://github.com/user-attachments/assets/e18f2701-a377-4079-987a-1a2707bc43d2" />
 
