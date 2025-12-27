@@ -2,7 +2,7 @@
 
 <img width="1307" height="707" alt="Neovim Screenshot" src="https://github.com/user-attachments/assets/e18f2701-a377-4079-987a-1a2707bc43d2" />
 
-A simple, minimal Neovim setup focused on productivity and clarity.
+A simple, minimal Neovim setup focused on speed and minimalism .
 
 ---
 
@@ -48,4 +48,4 @@ nvim/
 * **telescope.nvim** — Fuzzy finder
 * **nvim-tree.lua** — File explorer
 * **lualine.nvim** — Statusline
-* **Colorscheme** — UI theme
+* **Colorscheme** — Nightfox theme
