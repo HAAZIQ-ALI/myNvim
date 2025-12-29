@@ -26,7 +26,7 @@ nvim/
 ```
 
 ---
-### space is <leader>
+### Note :  space is leader 
 ## ⌨️ Keymaps
 
 | Mode   | Keybinding   | Action                        |
