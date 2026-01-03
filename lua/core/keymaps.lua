@@ -2,7 +2,8 @@
 vim.keymap.set("i", "jk" , "<Esc>" , { noremap = true})
 vim.keymap.set("n", "<leader>w", ":w<CR>", { silent = true })
 vim.keymap.set("n", "<leader>q", ":q<CR>", { desc = "Quit" })
-
+vim.keymap.set("n", "<leader>a", "ggVG", { desc = "Select all" })
+vim.keymap.set("n", "<leader>s", "$a;", { desc = "Place semicolon" })
 -- Telescope keymaps :
 vim.keymap.set("n", "<leader>ff", "<cmd>Telescope find_files<cr>")
 vim.keymap.set("n", "<leader>fg", "<cmd>Telescope live_grep<cr>")
