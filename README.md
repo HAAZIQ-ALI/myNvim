@@ -38,6 +38,7 @@ nvim/
 | Normal | `<leader>fg` | Live grep (Telescope)         |
 | Normal | `<leader>e`  | Toggle file tree              |
 | Normal | `<leader>r`  | Run command in split terminal |
+| Normal | `<leader>s`  | Add semicolon at end of a line|
 
 ---
 
